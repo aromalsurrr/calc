@@ -1,0 +1,22 @@
+.main{
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    background-image: url("images.jpeg");
+    
+    
+}
+
+#num1{
+    margin: 20px;
+}
+
+#num2{
+    margin: 20px;
+}
+
+#operator{
+    margin: 20px;
+}
